@@ -1,0 +1,43 @@
+.Navegation{
+    display:flex;
+    justify-content:space-around;
+}
+#img1{
+    width: 100px; 
+    padding-left: 80px;
+    padding-right: 600px;
+ -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%); 
+  -webkit-filter: grayscale(1) invert(1);
+filter: grayscale(1) invert(1);
+padding-bottom:20px;
+
+
+}
+.text{
+    padding:30px
+}
+.main_image{
+    display:flex;
+}
+#image2{
+    justify-content:flex-end;
+    width: 3000px;
+    height: 700px;
+
+}
+.text_image{
+    display:flex;
+}
+#image3{
+    width:1000px;
+
+}
+h1{
+    padding-left: 50px;
+}
+p{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
